@@ -1,0 +1,29 @@
+defaults:
+  - benchmark: compbench_color
+  - model_params: janus_pro_7b
+  - method: bon
+  - _self_
+
+seed: 42
+benchmark_root: null
+output_root: null
+cfg_scale: 5.0
+decode_func: cfg_decode
+pad: repeat
+N: 8
+batch_size: 2
+
+total_partitions: 1
+partition_id: 0
+
+orm:
+  model_name: Qwen2.5-VL-7B-Instruct
+  model_path: checkpoints/Qwen2.5-VL-7B-Instruct
+
+hydra:
+  output_subdir: null
+  sweep:
+    dir: .
+    subdir: ""
+  run:
+    dir: .

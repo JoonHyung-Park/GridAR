@@ -1,0 +1,6 @@
+name: compbench_complex
+family: compbench
+default_root: benchmark/T2I-CompBench
+default_output_root: benchmark/T2I-CompBench/outputs
+dataset_file: examples/dataset/complex_val.txt
+repeat: 2

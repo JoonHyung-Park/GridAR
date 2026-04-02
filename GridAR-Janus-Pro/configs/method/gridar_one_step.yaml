@@ -1,0 +1,13 @@
+name: GridAR_one_step
+
+decode_func: cfg_decode_3_way
+
+after_first_quarter:
+  select: false
+  refine: false
+  use_3way_cfg: false
+
+after_first_half:
+  select: true
+  refine: true
+  use_3way_cfg: true

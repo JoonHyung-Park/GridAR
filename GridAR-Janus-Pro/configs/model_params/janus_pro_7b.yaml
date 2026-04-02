@@ -1,0 +1,10 @@
+model_name: Janus-Pro-7B
+model:
+  path: checkpoints/Janus_ckpt/Janus-Pro-7B
+  dtype: bfloat16
+  device: cuda
+
+image_token_num_per_image: 576
+img_size: 384
+patch_size: 16
+max_batch_size: 8
