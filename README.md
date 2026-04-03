@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://joonhyung-park.github.io/" target="_blank">Joonhyung&nbsp;Park</a><sup>1*</sup> &ensp; <b>&middot;</b> &ensp;
   <a href="https://hyeongwon-jang.github.io/" target="_blank">Hyeongwon&nbsp;Jang</a><sup>1*</sup> &ensp; <b>&middot;</b> &ensp;
-  <a href="linkedin.com/in/joowon-kim-8b7390262" target="_blank">Joowon&nbsp;Kim</a><sup>1</sup> &ensp; <b>&middot;</b> &ensp;
+  <a href="https://linkedin.com/in/joowon-kim-8b7390262" target="_blank">Joowon&nbsp;Kim</a><sup>1</sup> &ensp; <b>&middot;</b> &ensp;
   <a href="https://scholar.google.com/citations?user=UWO1mloAAAAJ&hl=ko&oi=ao" target="_blank">Eunho&nbsp;Yang</a><sup>1,2</sup>
   <br>
   <sup>1</sup> KAIST &emsp; <sup>2</sup>AITRICS &emsp;
