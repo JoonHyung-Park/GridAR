@@ -5,7 +5,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2511.21185-b31b1b)](https://arxiv.org/abs/2511.21185)
 
 <div align="center">
-  <img src="assets/GridAR_figure.png" alt="GridAR" width="700"/>
+  <img src="assets/GridAR_figure_KOR.png" alt="GridAR" width="700"/>
 </div>
 <br>
 
