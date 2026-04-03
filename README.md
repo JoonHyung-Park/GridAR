@@ -1,5 +1,6 @@
 <h1 align="center"> Progress by Pieces: Test-Time Scaling for <br>Autoregressive Image Generation (CVPR 2026)
 </h1>
+
 [![Project Page](https://img.shields.io/badge/Project-Page-1f6feb)](https://grid-ar.github.io/)
 [![arXiv](https://img.shields.io/badge/arXiv-2511.21185-b31b1b)](https://arxiv.org/abs/2511.21185)
 
